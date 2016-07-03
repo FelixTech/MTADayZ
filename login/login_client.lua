@@ -225,7 +225,7 @@ function toggleSavePassword(name, pass)
 	xmlUnloadFile(confFile)
 end
 local sourceX, sourceY = 1440, 900
-local ft = dxCreateFont(":DayZ/fonts/28dayslater.ttf")
+local ft = dxCreateFont("DayZ/fonts/28dayslater.ttf")
  
  local texts = { }
  
